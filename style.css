@@ -103,7 +103,7 @@
     background-color: black;
 }
 .gymweight{
-    height: 350px;
+    height: 320px;
     width: 350px;
     background-color: brown;
     /* background-image: url("images/light.jpg"); */
@@ -111,13 +111,34 @@
     
 }
 .gymlight{
-    height: 150px;
+    height: 180px;
     width: 350px;
     background-color: rgb(42, 42, 165);
     /* display: flex;
     justify-content: center;
     align-items: center; */
 }
+.star{
+    height: 30px;
+    width: 350px;
+    background-color: aqua;
+}
+.gymweight100{
+    height: 50px;
+    width: 350px;
+    background-color: blanchedalmond;
+}
+.dolor{
+    height: 70px;
+    width: 350px;
+    background-color:greenyellow ;
+}
+.review{
+    height: 30px;
+    width: 350px;
+    background-color: blueviolet;
+}
+
 
 /* .gymlightcategory{
     height: 40px;
