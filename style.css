@@ -3,3 +3,179 @@
     width: 100%;
     background-color: aqua;
 }
+.pen{
+    height: 600px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    background-image: url('images/large.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.penbanner{
+    height: 400px;
+    width: 500px;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    /* margin:0 auto; */
+    margin-top: 100px;
+    margin-right: 800px;
+    
+}
+.txt{
+    font-size: 40px;
+    font-weight: 700;
+}
+.txt0{
+    font-size: 40px;
+}
+.pen-category{
+    height: 50px;
+    width: 400px;
+    background-color: blueviolet;
+}
+.txt1{
+    font-size: 25px;
+}
+.pen-category1{
+    height: 30px;
+    width: 400px;
+    background-color: rgb(43, 217, 226);
+}
+.pen-category2{
+    height: 130px;
+    width: 500px;
+    background-color: rgb(95, 98, 96);
+}
+.vic{
+    height: 200px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.featured{
+    height: 700px;
+    width: 100%;
+    background-color: aquamarine;
+    /* display: flex; */
+    /* justify-content: space-between;
+    align-items: center; */
+}
+.featuredproduct{
+    height: 100px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.txt5{
+    font-size: 40px;
+    
+}
+.txt6{
+    font-size: 20px;
+}
+.product{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gym{
+    height: 500px;
+    width: 100%;
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* nextwork */
+.gymcategory{
+    height: 500px;
+    width: 350px;
+    background-color: black;
+}
+.gymweight{
+    height: 350px;
+    width: 350px;
+    background-color: brown;
+    /* background-image: url("images/light.jpg"); */
+    background-repeat: no-repeat;
+    
+}
+.gymlight{
+    height: 150px;
+    width: 350px;
+    background-color: rgb(42, 42, 165);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+/* .gymlightcategory{
+    height: 40px;
+    width: 350px;
+    background-color: rgb(42, 87, 165);
+    
+}
+.gymlight2{
+    height: 40px;
+    width: 100px;
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+.txt101{
+    color: black;
+    justify-content: center;
+}
+
+.gymlight3{
+    height: 40px;
+    width: 150px;
+    background-color: tan;
+    margin-left: 70px;
+    display: flex;
+    align-items: center;
+}
+.txt102{
+    color: orangered;
+    font-weight: 600;
+    margin-left: 100px;
+}
+.weightcategory{
+    height: 40px;
+    width: 350px;
+    background-color:gray;
+}
+.txt302{
+    font-weight: 600;
+    font-size: 20px;
+}
+.txt303{
+    color: black;
+    font-size: 15px;
+}
+.weightcategory2{
+    height: 50px;
+    width: 350px;
+    background-color:rgb(28, 144, 233);
+} */
+.gymcategory20{
+    height: 500px;
+    width: 350px;
+    background-color: rgb(31, 209, 64);
+}
+.gymcategory3{
+    height: 500px;
+    width: 350px;
+    background-color: grey;
+}
