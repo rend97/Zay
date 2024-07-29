@@ -1,8 +1,91 @@
 .zay{
-    height: 80px;
-    width: 100%;
-    background-color: aqua;
+    height: 130px;
+    width: 120%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
 }
+.facebook-header{
+    height: 30px;
+    width: 120%;
+    background-color: #212934;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.facebook{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+    margin-left: 20px;
+}
+.insta{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+.twitter{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+.link{
+    height: 10px;
+    width: 10px;
+    background-color: white;
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: green;
+    font-weight: bold;
+}
+.menu{
+    height: 80px;
+    width: 1200px;
+    /* background-color: blue; */
+    display: flex;
+    margin-left: 100px;
+    align-items: center;
+}
+.menu-links a{
+    text-decoration: none;
+    padding-left: 100px;
+    color: black;
+    font-size: 23px;
+    
+}
+.menu-action{
+    height: 80px;
+    width: 150px;
+    /* background-color: blueviolet; */
+    margin-left: 80px;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+.search-icon{
+    height: 30px;
+    width: 50px;
+    /* background-color: bisque; */
+}
+.shopping-cart{
+    height: 30px;
+    width: 50px;
+    /* background-color: orangered; */
+}
+.person-icon{
+    height: 30px;
+    width: 50px;
+    /* background-color:gold; */
+} 
 .pen{
     height: 600px;
     width: 100%;
